@@ -1,11 +1,32 @@
 {
-  "#люди у которых есть тюрьма (ники)": "1.NoDuoDeveloper 2.DuoDeveloper",
+  "#люди у которых есть тюрьма (ники)": "1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91 4.R0blox_Zhenya/Clementine 5.GGGame12341234/NoobAtThisGame",
   "Jail": [
-    8961916319,
-    987654322
+  2763068674, 
+  8961916319,
+  5462761899, 
+  7914843246, 
+  3821190936, 
+  2039623628
   ],
-  "#люди у которых есть суперпуш (ники)": "1.NoDuoDeveloper 2.DuoDeveloper",
+  "#люди у которых есть суперпуш (ники)": "1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
   "SuperPush": [
-    8961916319
-  ]
+  2763068674, 
+  8961916319,
+  5462761899, 
+  7914843246,
+  ],
+  "#люди у которых есть devglock (ники)": "1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
+  "devglock": [
+  2763068674, 
+  8961916319,
+  5462761899, 
+  7914843246,
+  ],
+  "#люди у которых есть devglock (ники)": "1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
+  "glock": [
+  2763068674, 
+  8961916319,
+  5462761899, 
+  7914843246,
+  ],
 }
