@@ -1,5 +1,5 @@
 {
-  "comment_jail": "люди у которых есть тюрьма: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91 4.R0blox_Zhenya/Clementine 5.GGGame12341234/NoobAtThisGame",
+  "comment_jail": "люди у которых есть тюрьма: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91 5.R0blox_Zhenya/Clementine 6.GGGame12341234/NoobAtThisGame",
   "Jail": [
     2763068674,
     8961916319,
@@ -9,7 +9,7 @@
     2039623628
   ],
   "comment_superpush": "люди у которых есть суперпуш: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
-  "SuperPush": [
+  "superpush": [
     2763068674,
     8961916319,
     5462761899,
@@ -28,5 +28,43 @@
     8961916319,
     5462761899,
     7914843246
-  ]
+  ],
+  "comment_adminpush": "люди у которых есть админпуш: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
+  "adminpush": [
+    2763068674,
+    8961916319,
+    5462761899,
+    7914843246
+  ],
+  "comment_timestop": "люди у которых есть таймстоп: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
+  "timestop": [
+    2763068674,
+    8961916319,
+    5462761899,
+    7914843246
+  ],
+  "GrmGvr": "люди у которых есть громко-говоритель: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91",
+  "grmgvr": [
+    2763068674,
+    8961916319,
+    5462761899,
+    7914843246
+  ],
+  "comment_drone": "люди у которых есть дрон: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91 5.soIIiesi",
+  "drone": [
+    2763068674,
+    8961916319,
+    5462761899,
+    7914843246,
+    1697276441
+  ],
+  "comment_jarvis": "люди у которых есть жч/джарвис: 1.DuoDeveloper 2.NoDuoDeveloper 3.filtik41/Cherniy_Holder 4.AdlerM91 5.R0blox_Zhenya/Clementine 6.Gamma_993I/Gamma993",
+  "jarvis": [
+    2763068674,
+    8961916319,
+    5462761899,
+    7914843246,
+    3821190936,
+    7144130577
+  ],
 }
